@@ -50,8 +50,8 @@
 ![32](https://github.com/user-attachments/assets/5973a24c-a463-4cbd-8a9e-d1db6369f521)
 
 
-### Name:
-### Register Number:
+### Name: AHAMED SAHUL HAMEED M
+### Register Number: 212224040016
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
