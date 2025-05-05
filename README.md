@@ -46,8 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/7528ebbc-35b9-401a-b41a-936a547952b1)
-![32](https://github.com/user-attachments/assets/5973a24c-a463-4cbd-8a9e-d1db6369f521)
+![image](https://github.com/user-attachments/assets/9dc739a0-e63d-4f47-b73a-5cdcea157431)
+![image](https://github.com/user-attachments/assets/b112358c-3f06-438e-9fb0-520d9e34835d)
+
 
 
 ### Name: AHAMED SAHUL HAMEED M
