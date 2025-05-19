@@ -51,8 +51,8 @@
 
 
 
-### Name: AHAMED SAHUL HAMEED M
-### Register Number: 212224040016
+### Name: HARISH S
+### Register Number: 212224040105
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
